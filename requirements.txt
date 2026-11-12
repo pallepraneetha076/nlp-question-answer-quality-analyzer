@@ -1,6 +1,10 @@
+
 streamlit==1.67.0
 pandas==2.2.3
 numpy==2.4.6
 joblib==1.6.0
 scikit-learn==1.6.1
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1+cpu
 sentence-transformers==5.7.0
