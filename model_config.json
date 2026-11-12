@@ -1,0 +1,18 @@
+{
+    "project_name": "NLP-Based Question Answer Quality Analyzer",
+    "model_name": "Optimized Gradient Boosting Regressor",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "maximum_training_score": 5,
+    "feature_columns": [
+        "tfidf_similarity",
+        "question_tfidf_relevance",
+        "sbert_similarity",
+        "sbert_question_relevance",
+        "reference_keyword_coverage",
+        "semantic_completeness",
+        "student_word_count",
+        "reference_word_count",
+        "answer_reference_length_ratio",
+        "question_word_count"
+    ]
+}
