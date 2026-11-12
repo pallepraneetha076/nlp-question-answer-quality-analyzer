@@ -1,4 +1,3 @@
-
             "Maximum Marks",
             min_value=1.0,
             max_value=100.0,
