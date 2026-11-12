@@ -144,6 +144,8 @@ streamlit run app.py
 | Palle Praneetha | 1RVU23BSC096 |
 | Monika J | 1RUA24SCS0061 |
 | Gajulapalli Sabiha | 1RUA24SCS0035 |
+| Gedala Bimala | 1RUA24SCS0037 |
+| Archana BS | 1RUA24SCS0011 |
 
 **RV University**  
 School of Computer Science & Engineering
